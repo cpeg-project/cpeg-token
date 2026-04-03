@@ -1,0 +1,16 @@
+{
+  "name": "cpeg-token",
+  "version": "1.0.0",
+  "description": "Copper Peg Coin (CPEG) - Fixed-supply ERC-20 token",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.22.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.1.0"
+  }
+}
