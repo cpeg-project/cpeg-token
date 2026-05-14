@@ -9,7 +9,8 @@ Fixed-supply ERC-20 token on Ethereum.
 | Token Name | Copper Peg Coin |
 | Symbol | CPEG |
 | Decimals | 18 |
-| Total Supply | 4,300,000,000 CPEG |
+| Total Supply | 1,800,000,000 CPEG |
+| Asset Peg | 1 CPEG ≈ 1 pound (453.6 g) of copper |
 | Standard | ERC-20 (OpenZeppelin) |
 | Network | Ethereum Mainnet |
 | Mintable | No |
