@@ -13,7 +13,7 @@ describe("CopperPegCoin", function () {
 
   describe("Deployment", function () {
     it("should have correct name", async function () {
-      expect(await token.name()).to.equal("Copper Peg Coin");
+      expect(await token.name()).to.equal("Copper Coin");
     });
 
     it("should have correct symbol", async function () {

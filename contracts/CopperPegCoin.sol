@@ -11,7 +11,7 @@ import {ERC20} from "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 contract CopperPegCoin is ERC20 {
     uint256 private constant TOTAL_SUPPLY = 1_800_000_000 ether;
 
-    constructor(address recipient) ERC20("Copper Peg Coin", "CPEG") {
+    constructor(address recipient) ERC20("Copper Coin", "CPEG") {
         require(recipient != address(0), "zero address");
         _mint(recipient, TOTAL_SUPPLY);
     }

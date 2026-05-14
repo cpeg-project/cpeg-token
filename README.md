@@ -1,12 +1,12 @@
-# Copper Peg Coin (CPEG)
+# Copper Coin (CPEG)
 
-Fixed-supply ERC-20 token on Ethereum.
+Fixed-supply ERC-20 token on Ethereum, pegged to physical copper.
 
 ## Token Details
 
 | Item | Value |
 |------|-------|
-| Token Name | Copper Peg Coin |
+| Token Name | Copper Coin |
 | Symbol | CPEG |
 | Decimals | 18 |
 | Total Supply | 1,800,000,000 CPEG |
