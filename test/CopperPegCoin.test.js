@@ -3,7 +3,7 @@ const { ethers } = require("hardhat");
 
 describe("CopperPegCoin", function () {
   let token, owner, addr1, addr2;
-  const TOTAL_SUPPLY = ethers.parseEther("4300000000");
+  const TOTAL_SUPPLY = ethers.parseEther("1800000000");
 
   beforeEach(async function () {
     [owner, addr1, addr2] = await ethers.getSigners();
